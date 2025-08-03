@@ -8,25 +8,12 @@
 
 ---
 
-## 🌐 Live Demo
-
-[Try the demo here](YOUR_LIVE_URL) (if available, e.g. from GitHub Pages or Netlify)
-
----
-
 ## 🧱 Features
 
 - Clean Netflix-like UI with responsive layout  
 - CSS hover effects and transitions  
 - Static data or fetched movie info from a public API  
 - Includes modal popup for movie info, if implemented
-
----
-
-## 📸 Screenshots / GIF
-
-![Landing Page](screenshots/home.png)  
-*(Add more images or an animated GIF showing hover states or trailer modal)*
 
 ---
 
